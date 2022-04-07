@@ -16,3 +16,7 @@ Player 2 Keyboard Controls:
 
 
 ![two samurais fight](https://github.com/jonathanleejono/FightingGame/blob/main/github_img/samurai_fight.png)
+
+# Images
+
+Original source images can be downloaded from here: https://brullov.itch.io/oak-woods
