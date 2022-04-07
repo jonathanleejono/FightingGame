@@ -6,7 +6,7 @@ Player 1 Keyboard Controls:
 - "A" - Left 
 - "D" - Right
 - "W" - Jump
-- "D" - Attack
+- "S" - Attack
 
 Player 2 Keyboard Controls: 
 - "Arrow Left" - Left 
