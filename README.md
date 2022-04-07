@@ -19,4 +19,4 @@ Player 2 Keyboard Controls:
 
 # Images
 
-Original source images can be downloaded from here: https://brullov.itch.io/oak-woods
+Original source sprites and images can be downloaded from here: https://brullov.itch.io/oak-woods
