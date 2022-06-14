@@ -146,7 +146,7 @@ class Fighter extends Sprite {
       this.switchSprite("death");
     } else this.switchSprite("takeHit");
   }
-
+  // test
   switchSprite(sprite) {
     // overriding all other animations with death animation
     if (this.image === this.sprites.death.image) {
