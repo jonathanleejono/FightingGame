@@ -15,7 +15,7 @@ Player 2 Keyboard Controls:
 - "Arrow Down" - Attack
 
 
-![two samurais fight](https://github.com/jonathanleejono/FightingGame/blob/main/github_img/samurai_fight.png)
+![two samurais fight](https://github.com/jonathanleejono/SamuraiFightingGame/blob/main/github_img/samurai_fight.png)
 
 # Images
 
