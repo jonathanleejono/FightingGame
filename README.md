@@ -1,4 +1,4 @@
-# FightingGame
+# SamuraiFightingGame
 
 Two samurais fight it out in an HTML, CSS, Javascript game. Play the game here: https://two-samurai-fighting-game.netlify.app/
 
